@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/nickdunn2/natours#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^8.0.0"
   }
 }
